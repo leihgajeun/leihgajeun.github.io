@@ -1,0 +1,14 @@
+name: "my-website"
+navbar:
+  title: "李嘉俊 [leɪ˨˧ ka˥ tsɐn˧]"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<chriskcl@bu.edu>
+output:
+  html_document:
+    theme: darkly
