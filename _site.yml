@@ -3,9 +3,9 @@ navbar:
   title: "李嘉俊 [leɪ˨˧ ka˥ tsøn˧]"
   left:
     - text: "Home"
-      href: _site/index.html
+      href: index.html
     - text: "About me"
-      href: _site/about.html
+      href: about.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<chriskcl@bu.edu>
