@@ -1,11 +1,11 @@
 name: "my-website"
 navbar:
-  title: "李嘉俊 [leɪ˨˧ ka˥ tsɐn˧]"
+  title: "李嘉俊 [leɪ˨˧ ka˥ tsøn˧]"
   left:
     - text: "Home"
-      href: index.html
+      href: _site/index.html
     - text: "About me"
-      href: about.html
+      href: _site/about.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<chriskcl@bu.edu>
