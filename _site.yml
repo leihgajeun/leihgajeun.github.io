@@ -9,6 +9,3 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<chriskcl@bu.edu>
-output:
-  html_document:
-    theme: darkly
